@@ -41,5 +41,5 @@ Questi progetti sono pensati per esercitazioni individuali e possono essere este
 ## 📬 Contatti
 
 Per domande, suggerimenti o collaborazioni:
-**Giulia Montechiarello** – [GitHub Profile](https://github.com/giuliamonte21)
+**Giuliamonte21** – [GitHub Profile](https://github.com/giuliamonte21)
 
