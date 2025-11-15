@@ -1,12 +1,14 @@
 public class IfExercises {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {minuscole
         boolean isOnline = true;
         String nome = "Luca";
 
-        if (nome.equals("Luca")) {
+        String nomePulito = nome.trim();
+                                            
+        if (nomePulito.equalsIgnoreCase("Luca")) {
             System.out.println("è Luca");
-        } else if (nome.equals("Marco")) {
+        } else if (nomePulito.equalsIgnoreCase("Marco")) {
             System.out.println("è Marco");
         } else {
             System.out.println("è qualcun altro");
