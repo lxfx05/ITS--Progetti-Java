@@ -13,5 +13,3 @@ public class IfExercises {
         }
     }
 }
-
-//RIGUARDARE: NON FUNZIONA
